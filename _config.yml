@@ -3,17 +3,17 @@ menu:
   Home: /
   Archives: /archives
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/caiwangwhu
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: '@不羁传媒'
 
 # URL of the Home page image
-index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
+index_cover: https://scontent-nrt1-1.xx.fbcdn.net/t31.0-8/14882156_1167498583333155_4408790776744879499_o.jpg
 
 # Default post title
-default_post_title: Untitled
+default_post_title: 小不羁
 
 # Comments. Choose one by filling up the information
 comments:
@@ -35,7 +35,7 @@ addthis:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/caiwangwhu
 gitlab_url:
 linkedin_url:
 mailto:
